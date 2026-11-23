@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Expense & Budget CLI Analyzer
 
 IT Simplera – Week 1, Task 1 (Python Development).
@@ -40,3 +41,7 @@ tests/             assert-based tests
 ```
 
 
+=======
+# week1-expense-cli
+Python Personal Expense and Budget CLI Analyzer
+>>>>>>> 5cf981c728637c186e716e24ccb5b3e3aae6396c
